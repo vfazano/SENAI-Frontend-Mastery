@@ -35,7 +35,7 @@ Repositórios dos projetos práticos desenvolvidos ao longo da matéria.
 | 03 | Aula 03 | quiz_react | [🔗 Repositório](https://github.com/Arthur-2612/quiz_react) | [🌐 Ver online](https://quiz-react-jet-nine.vercel.app) | React |
 | 04 | Aula 03 | Projeto-Vue-SN | [🔗 Repositório](https://github.com/vfazano/Projeto-Vue-SN) | [🌐 Ver online](https://vue-project-blwnxgo6x-arthur-033b.vercel.app) | Vue |
 | 05 | Aula 03 | meu-app-angular | [🔗 Repositório](https://github.com/Arthur-2612/meu-app-angular) | [🌐 Ver online](https://meu-app-angular.vercel.app) | Angular |
-| 06 | Aula 03 | meu-projeto-nextjs | [🔗 Repositório](https://github.com/Arthur-2612/meu-projeto-nextjs) | [🌐 Ver online](https://meu-projeto-nextjs-hujmth3h6-arthur-033b.vercel.app) | Next.js |
+| 06 | Aula 03 | meu-projeto-nextjs | [🔗 Repositório](https://github.com/vfazano/The-Witcher-Page) | [🌐 Ver online](https://meu-projeto-nextjs-hujmth3h6-arthur-033b.vercel.app) | Next.js |
 
 ## 🛠️ Tecnologias
 As tecnologias serão adicionadas conforme forem estudadas durante o semestre.
