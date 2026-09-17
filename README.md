@@ -35,7 +35,7 @@ Repositórios dos projetos práticos desenvolvidos ao longo da matéria.
 | 03 | Aula 03 | SENAI-Gaspar-Ricardo-Junior-Projeto-Next.js | [🔗 Repositório](https://github.com/vfazano/SENAI-Gaspar-Ricardo-Junior-Projeto-Next.js) | [🌐 Ver online](https://senai-gaspar-ricardo-junior-projeto.vercel.app/) | React |
 | 04 | Aula 03 | Adega-do-Tio-Phill | [🔗 Repositório](https://github.com/vfazano/Projeto-Vue-SN) | [🌐 Ver online](https://adega-do-tio-phill-2yen.vercel.app/) | Vue |
 | 05 | Aula 03 | Projeto-Angular-SN | [🔗 Repositório](https://github.com/vfazano/Projeto-Angular-SN) | [🌐 Ver online](https://meu-app-angular.vercel.app) | Angular |
-| 06 | Aula 03 | The-Witcher-Page | [🔗 Repositório](https://github.com/vfazano/The-Witcher-Page) | [🌐 Ver online](https://meu-projeto-nextjs-hujmth3h6-arthur-033b.vercel.app) | Next.js |
+| 06 | Aula 03 | The-Witcher-Page | [🔗 Repositório](https://github.com/vfazano/The-Witcher-Page) | [🌐 Ver online](https://the-witcher-page-puce.vercel.app/#inicio) | Next.js |
 
 ## 🛠️ Tecnologias
 As tecnologias serão adicionadas conforme forem estudadas durante o semestre.
