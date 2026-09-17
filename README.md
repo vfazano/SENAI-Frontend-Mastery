@@ -30,10 +30,10 @@ Repositórios dos projetos práticos desenvolvidos ao longo da matéria.
 
 | # | Aula | Projeto | Repositório | Deploy | Tecnologia |
 |---|------|---------|--------------|--------|------------|
-| 01 | Aula 01 | bryan-barber | [🔗 Repositório](https://github.com/vfazano/bryan-barber) | [🌐 Ver online](https://vannila-js.vercel.app) | CSS / JavaScript |
-| 02 | Aula 02 | LeagueOfLegendsQuizPage | [🔗 Repositório](https://github.com/vfazano/LeagueOfLegendsQuizPage) | [🌐 Ver online](https://projeto-react-red-six.vercel.app) | React |
-| 03 | Aula 03 | SENAI-Gaspar-Ricardo-Junior-Projeto-Next.js | [🔗 Repositório](https://github.com/vfazano/SENAI-Gaspar-Ricardo-Junior-Projeto-Next.js) | [🌐 Ver online](https://quiz-react-jet-nine.vercel.app) | React |
-| 04 | Aula 03 | Adega-do-Tio-Phill | [🔗 Repositório](https://github.com/vfazano/Projeto-Vue-SN) | [🌐 Ver online](https://vue-project-blwnxgo6x-arthur-033b.vercel.app) | Vue |
+| 01 | Aula 01 | bryan-barber | [🔗 Repositório](https://github.com/vfazano/bryan-barber) | [🌐 Ver online](https://bryan-barber.vercel.app/) | CSS / JavaScript |
+| 02 | Aula 02 | LeagueOfLegendsQuizPage | [🔗 Repositório](https://github.com/vfazano/LeagueOfLegendsQuizPage) | [🌐 Ver online](https://league-of-legends-quiz-page.vercel.app/) | React |
+| 03 | Aula 03 | SENAI-Gaspar-Ricardo-Junior-Projeto-Next.js | [🔗 Repositório](https://github.com/vfazano/SENAI-Gaspar-Ricardo-Junior-Projeto-Next.js) | [🌐 Ver online](https://senai-gaspar-ricardo-junior-projeto.vercel.app/) | React |
+| 04 | Aula 03 | Adega-do-Tio-Phill | [🔗 Repositório](https://github.com/vfazano/Projeto-Vue-SN) | [🌐 Ver online](https://adega-do-tio-phill-2yen.vercel.app/) | Vue |
 | 05 | Aula 03 | Projeto-Angular-SN | [🔗 Repositório](https://github.com/vfazano/Projeto-Angular-SN) | [🌐 Ver online](https://meu-app-angular.vercel.app) | Angular |
 | 06 | Aula 03 | The-Witcher-Page | [🔗 Repositório](https://github.com/vfazano/The-Witcher-Page) | [🌐 Ver online](https://meu-projeto-nextjs-hujmth3h6-arthur-033b.vercel.app) | Next.js |
 
