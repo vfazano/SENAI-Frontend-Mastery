@@ -36,6 +36,17 @@ Repositórios dos projetos práticos desenvolvidos ao longo da matéria.
 | 04 | Aula 03 | Adega-do-Tio-Phill | [🔗 Repositório](https://github.com/vfazano/Projeto-Vue-SN) | [🌐 Ver online](https://adega-do-tio-phill-2yen.vercel.app/) | Vue |
 | 05 | Aula 03 | Projeto-Angular-SN | [🔗 Repositório](https://github.com/vfazano/Projeto-Angular-SN) | [🌐 Ver online](https://meu-app-angular.vercel.app) | Angular |
 | 06 | Aula 03 | The-Witcher-Page | [🔗 Repositório](https://github.com/vfazano/The-Witcher-Page) | [🌐 Ver online](https://the-witcher-page-puce.vercel.app/#inicio) | Next.js |
+| 07 | Aula 04 | Projetos_API | [🔗 Repositório](https://github.com/Arthur-2612/Projetos_API.git) | Esse repositório contém diversos projetos | React / Node.js (Express) |
+| 08 | Aula 04 | front_express | [🔗 Repositório](https://github.com/Arthur-2612/front_express.git) | [🌐 Ver online](https://front-express-2jyu.vercel.app/) | Express / Node.js |
+| 09 | Aula 05 | projeto-notas-back | [🔗 Repositório](https://github.com/Arthur-2612/projeto-notas-back.git) | [🌐 Ver online](https://projeto-notas-back-1.onrender.com) | Express / Node.js |
+| 10 | Aula 05 | front-notas | [🔗 Repositório](https://github.com/Arthur-2612/front-notas.git) | [🌐 Ver online](https://front-notas-gk0jh72r7-arthur-033b.vercel.app) | React |
+| 11 | Aula 06 | Sem projeto | - | - | - |
+| 12 | Aula 07 | Projeto-CSS | [🔗 Repositório](https://github.com/Arthur-2612/Projeto-CSS) | [🌐 Ver online](https://projeto-css-mu.vercel.app) | HTML / CSS |
+| 13 | Aula 07 | Projeto---Tailwind | [🔗 Repositório](https://github.com/Arthur-2612/Projeto---Tailwind) | [🌐 Ver online](https://projeto-css-sdgs.vercel.app/) | HTML / Tailwind CSS |
+| 14 | Aula 08 | Projeto_React_JS | [🔗 Repositório](https://github.com/Arthur-2612/Projeto_React_JS) | [🌐 Ver online](https://projeto-react-js-seven.vercel.app/) | React |
+| 15 | Aula 08 | Soccer_React | [🔗 Repositório](https://github.com/Arthur-2612/Soccer_React) | [🌐 Ver online](https://soccerreact-lkd0e3d7v-arthur-033b.vercel.app/) | React |
+
+
 
 ## 🛠️ Tecnologias
 As tecnologias serão adicionadas conforme forem estudadas durante o semestre.
