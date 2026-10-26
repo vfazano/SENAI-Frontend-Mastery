@@ -53,4 +53,4 @@ As tecnologias serão adicionadas conforme forem estudadas durante o semestre.
 **Frameworks Front-end**
 
 ## 📌 Objetivo Final
-Construir uma base sólida de conhecimento em Front-end, criando um repositório organizado que sirva como material de consulta para estudos, projetos e futuras oportunidades profissionais..
+Construir uma base sólida de conhecimento em Front-end, criando um repositório organizado que sirva como material de consulta para estudos, projetos e futuras oportunidades profissionais....
