@@ -38,15 +38,18 @@ O ecossistema de ferramentas e tecnologias aplicadas nos projetos práticos e au
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
 
-### 🔴 Back-end, APIs & Testes
+### 🔴 Back-end, Banco de Dados (BaaS) & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-E30613?style=flat-square&logo=fastapi&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
@@ -88,6 +91,8 @@ Frontend-Summary-SN/
 ├── 📁 Aula 08 - Projeto React/
 │   ├── 📄 Aula 08 - Projeto React.pdf
 │   └── 📝 aula08_resumo.md
+├── 📁 Aula 09 - React, APIs e Navegação por Rotas/
+│   └── 📝 aula09_resumo.md
 ├── 🖼️ SENAI.png
 ├── 🎞️ Programmer Coding GIF.gif
 └── 📄 README.md
@@ -116,7 +121,17 @@ Tabela com todos os projetos práticos desenvolvidos na matéria, seus respectiv
 | **13** | Aula 07 | **aula07-box-flex** | [🔗 Repositório](https://github.com/vfazano/aula07-box-flex) | — | `HTML` `CSS Flexbox` |
 | **14** | Aula 07 | **aula07-tailwind** | [🔗 Repositório](https://github.com/vfazano/aula07-tailwind) | [🌐 Ver online](https://aula07-tailwind.vercel.app/) | `Tailwind CSS` |
 | **15** | Aula 08 | **aula08-react-conceitos** | [🔗 Repositório](https://github.com/vfazano/aula08-react-conceitos) | [🌐 Ver online](https://aula08-react-conceitos.vercel.app/) | `React` |
-| **16** | Aula 09 | **aula09-react-api-router** | [🔗 Repositório](https://github.com/vfazano/aula09-react-api-router) | [🌐 Ver online](https://aula09-react-api-router.vercel.app/) | `React Router` |
+| **16** | Aula 09 | **aula09-react-api-router** | [🔗 Repositório](https://github.com/vfazano/aula09-react-api-router) | [🌐 Ver online](https://aula09-react-api-router.vercel.app/) • [💬 Mural](https://aula09-react-api-router.vercel.app/comunidade) | `React` `React Router` `Supabase` `Vite` |
+
+---
+
+### ⚡ Destaque da Aula 09 — Integração com Supabase (Backend-as-a-Service)
+
+No projeto **aula09-react-api-router**, foi integrada uma arquitetura full-stack moderna conectando o Front-end ao **Supabase**:
+- 🗄️ **Banco de Dados Relacional (PostgreSQL):** Persistência na nuvem para o mural colaborativo de recomendações (`game_suggestions`).
+- 🛡️ **Segurança com Row Level Security (RLS):** Políticas de acesso granular no banco que permitem leituras e envios públicos anônimos com validação rigorosa, sem autorizar exclusões ou alterações indevidas.
+- 🌐 **Consumo de APIs Externas:** Integração com a API pública da Wikipedia para consulta e renderização de dados dos jogos, com tratamento completo de loading, erro e respostas vazias.
+- 🧭 **Roteamento Dinâmico (React Router):** Navegação entre rotas (`/`, `/jogos`, `/jogos/:id`, `/comunidade`, `/api`) com roteamento client-side e suporte em produção via Vercel.
 
 ---
 
