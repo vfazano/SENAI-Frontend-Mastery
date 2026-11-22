@@ -71,3 +71,4 @@ npm run preview
 - **Aplicação Online (Deploy):** [https://aula09-react-api-router.vercel.app/](https://aula09-react-api-router.vercel.app/)
 - **Mural da Comunidade (Supabase):** [https://aula09-react-api-router.vercel.app/comunidade](https://aula09-react-api-router.vercel.app/comunidade)
 - **Relatório de Entrega:** [RELATORIO-AULA09.md](https://github.com/vfazano/aula09-react-api-router/blob/main/RELATORIO-AULA09.md)
+
