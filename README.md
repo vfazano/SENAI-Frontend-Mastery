@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="SENAI%20ENTRADA.jpg" alt="Fachada SENAI Gaspar Ricardo Júnior" width="100%" style="border-radius: 8px;"/>
+  <img src="Programmer%20Coding%20GIF.gif" alt="Programmer Coding GIF" width="100%" style="border-radius: 8px;"/>
 </p>
 
 ---
@@ -89,7 +89,7 @@ Frontend-Summary-SN/
 │   ├── 📄 Aula 08 - Projeto React.pdf
 │   └── 📝 aula08_resumo.md
 ├── 🖼️ SENAI.png
-├── 🖼️ SENAI ENTRADA.jpg
+├── 🎞️ Programmer Coding GIF.gif
 └── 📄 README.md
 ```
 
